@@ -1,0 +1,27 @@
+﻿1CV8LOG(ver 2.0)
+38972070-e7b4-4d9d-87c5-69ca4f1b1346
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-4THE0H2",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,35a19b27-3264-4e68-a8b4-da5bc1ae4f17,"ПланВидовРасчета.ВидыРасчета",1},
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Transaction$_.Rollback",10},
+{4,"_$PerformError$_",11},
+{4,"_$Data$_.Update",12},
+{5,cf82f70b-fe4b-494a-9dd2-0f1042393406,"Документ.ФиксацияБольничного",2},
+{4,"_$Data$_.Post",13},
+{4,"_$Transaction$_.Commit",14},
+{4,"_$InfoBase$_.ConfigUpdate",15},
+{5,7b7488f0-459f-4003-b75a-f789b9ef37b8,"РегистрСведений.ПроизводственныйКалендарь",3},
+{3,"BackgroundJob",3}
